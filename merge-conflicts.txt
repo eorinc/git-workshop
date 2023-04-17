@@ -6,4 +6,3 @@ Bubbles
 This is Mike's second line of text!
 
 Hello World - Bill
->>>>>>> 92c05b2795054bd980d81bf3e734842da6c467a5
