@@ -1,4 +1,6 @@
-This is Mike's line of text!
-This is my line now...
+This is Mike's line of text! 
+
+
+Nick Nick
 
 This is Mike's second line of text!
