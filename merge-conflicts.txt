@@ -4,7 +4,3 @@ This is Mike's line of text!
 Nick Nick
 
 This is Mike's second line of text!
-
-Hello World - Bill
-
-This is the third test - Mike
