@@ -4,4 +4,4 @@ This is Mike's line of text!
 
 
 
-John's new line here
+John's new line here.
